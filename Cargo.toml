@@ -1,0 +1,7 @@
+[package]
+name = "rust-101"
+version = "0.1.0"
+authors = ["AntK0"]
+edition = "2024"
+
+[dependencies]
